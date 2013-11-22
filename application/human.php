@@ -32,11 +32,13 @@
     <p id="nTrays" style="color: white"></p>
     <p id="nElements" style="color: white"></p>
      -->
+     
     <div class="BackgroundContent" id="backgroundContent">
 	    <div class="Content" id="content"></div>
     </div>
-<!--     <section class="Container"> -->
+	
+	
     <div class="Round"><div class="InnerRound"><img class="IconRound" src="images/home.png"/></div></div>
-<!--     </section> -->
+
     </body>
 </html>
